@@ -15,8 +15,9 @@ C++ STL 사용법을 정리하기 위한 레포입니다.
 - [Set](#-set--https---githubcom-bsm8734-cpp-stl-study-blob-main-setmd-)
 - [Map](#-map--https---githubcom-bsm8734-cpp-stl-study-blob-main-mapmd-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+---
 
+## Contents
 
 ### [Basic_Grammar](https://github.com/bsm8734/cpp-stl-study/blob/main/Basic_Grammar.md)
 
