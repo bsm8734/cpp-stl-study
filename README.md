@@ -4,16 +4,16 @@ C++ STL 사용법을 정리하기 위한 레포입니다.
 
 ## 목차
 
-- [Basic_Grammer](#[Basic-Grammar](https://github.com/bsm8734/cpp-stl-study/blob/main/Basic_Grammar.md))
-- [Sort(algorithm)](#-sort-algorithm---https---githubcom-bsm8734-cpp-stl-study-blob-main-sortmd-)
-- [String](#-string--https---githubcom-bsm8734-cpp-stl-study-blob-main-stringmd-)
-- [Deque](#-deque--https---githubcom-bsm8734-cpp-stl-study-blob-main-dequemd-)
-- [Vector](#-vector--https---githubcom-bsm8734-cpp-stl-study-blob-main-vectormd-)
-- [List](#-list--https---githubcom-bsm8734-cpp-stl-study-blob-main-listmd-)
-- [Stack](#-stack--https---githubcom-bsm8734-cpp-stl-study-blob-main-stackmd-)
-- [Queue(Priority Queue)](#-queue-priority-queue---https---githubcom-bsm8734-cpp-stl-study-blob-main-queue-pq-heapmd-)
-- [Set](#-set--https---githubcom-bsm8734-cpp-stl-study-blob-main-setmd-)
-- [Map](#-map--https---githubcom-bsm8734-cpp-stl-study-blob-main-mapmd-)
+- Basic_Grammer
+- Sort(algorithm)
+- String
+- Deque
+- Vector
+- List
+- Stack
+- Queue(Priority Queue)
+- Set
+- Map
 
 ---
 
